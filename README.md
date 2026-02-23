@@ -27,7 +27,7 @@
 |  Contribuidores | Função |      GitHub     |
 | :---:         | :---:  |  :---:          |
 | 🚩 Silvio Fernando Barbieri | `Pesquisador Visitante` | @Perfil do GitHub|
-| Melissa Ribeiro Romão Dias | `Aluno Bolsista (Iniciação Científica)` | @melissaromao |
+| Melissa Ribeiro Romão Dias | `Aluno Bolsista (Iniciação Científica)` | [@melissaromao](https://github.com/melissaromao) |
 
 ## [Squad 4️⃣](https://github.com/melissaromao/SB100/wiki/Squad-4%EF%B8%8F%E2%83%A3)
 > 🎯 Responsável pelo **transformers para agronegócio**.
