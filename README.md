@@ -35,6 +35,7 @@
 |  Contribuidores | Função |      GitHub     |
 | :---:         | :---:  |  :---:          |
 | 🚩 João Ricardo Favan | `Pesquisador Visitante` | @Perfil do GitHub|
+| Maria Eduarda da Cruz de Camargo | `Aluna Bolsista (Iniciação Científica)` | [@mariacamargo-ds](https://github.com/mariacamargo-ds) |
 
 ## [Squad 5️⃣](https://github.com/melissaromao/SB100/wiki/Squad-5%EF%B8%8F%E2%83%A3)
 > 🎯 Responsável pela **criação de agentes inteligentes**.
