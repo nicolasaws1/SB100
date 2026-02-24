@@ -20,6 +20,8 @@
 |  Contribuidores | Função |      GitHub     |
 | :---:         | :---:  |  :---:          |
 | 🚩 Dionísio Gava Junior | `Pesquisador Visitante` | @Perfil do GitHub|
+| Leonardo Ricci Santos Oliveira  | `Aluno Bolsista (Iniciação Científica)` | [@leonardoricci-tsi](https://github.com/leonardoricci-tsi) |
+| Nicolas Alves Witzel da Silva | `Aluno Bolsista (Iniciação Científica)` | [@nicolasaws1](https://github.com/nicolasaws1) |
 
 ## [Squad 3️⃣](https://github.com/melissaromao/SB100/wiki/Squad-3%EF%B8%8F%E2%83%A3)
 > 🎯 Responsável pelo **banco de dados NR**, **Infraestrutura computacional para o LLM em agronegócios**.
